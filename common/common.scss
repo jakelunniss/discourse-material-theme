@@ -12156,3 +12156,7 @@ body .query-run .query-plan {
   border-bottom: 0;
   margin-bottom: 0;
 }
+
+.views.sortable.num, .num.views {
+    display: none!important;
+}
